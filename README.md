@@ -1,7 +1,7 @@
 Computational Methods compenent to the Mathematical Physics 1 Class at UTSA 
 
 Mathematical Physics 1 covers the following topics:
-1. Infinite Series, Power SEries
+1. Infinite Series, Power Series
 2. Complex Numbers
 3. Linear Algebra
 4. Partial Differentiaon
