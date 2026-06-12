@@ -1,13 +1,14 @@
-Computational Methods compenent to the Mathematical Physics 1 Class at UTSA 
+Computational Methods component to the Mathematical Physics 1 Class at UTSA. The goal is teach how to use python packages to solve physics problems
+while adding some numerical methods where practical. 
 
 Mathematical Physics 1 covers the following topics:
-1. Infinite Series, Power Series
-2. Complex Numbers
-3. Linear Algebra
-4. Partial Differentiaon
-5. Multiple Integrals
-6. Vector Analysis
-7. Fourier Series and Transforms
+1. Infinite Series, Power Series  (Euler's Method)
+2. Complex Numbers                
+3. Linear Algebra                 (Finite Difference Method)
+4. Partial Differentiaon          (Numerical Partial Derivatives)
+5. Multiple Integrals             (Simpson's Rule)
+6. Vector Analysis                (Numerical Gradient, Divergence, Curl)
+7. Fourier Series and Transforms  
 
 Each of these chapters will be followed by a small computational component, introducing computational methods tools and light numerical analysis.
 
