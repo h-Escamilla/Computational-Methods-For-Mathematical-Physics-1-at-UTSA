@@ -3,10 +3,10 @@ while adding some numerical methods where practical.
 
 Mathematical Physics 1 covers the following topics:
 1. Infinite Series, Power Series  (Euler's Method)
-2. Complex Numbers                
+2. Complex Numbers                (Newton's Root Finding Method)
 3. Linear Algebra                 (Finite Difference Method)
 4. Partial Differentiaon          (Numerical Partial Derivatives)
-5. Multiple Integrals             (Simpson's Rule)
+5. Multiple Integrals             (Simpson's Rule, Monte Carlo Integration)
 6. Vector Analysis                (Numerical Gradient, Divergence, Curl)
 7. Fourier Series and Transforms  
 
