@@ -6,9 +6,9 @@ Mathematical Physics 1 covers the following topics:
 2. Complex Numbers                
 3. Linear Algebra                 (Linear Regression)
 4. Partial Differentiaon          (Numerical Partial Derivatives)
-5. Multiple Integrals             (Rectangle Rule, Quadrature, Monte Carlo Integration)
+5. Multiple Integrals             (Rectangle)
 6. Vector Analysis                (Numerical Gradient, Divergence, Curl)
-7. Fourier Series and Transforms  
+7. Fourier Series and Transforms  (FFT)
 
 Each of these chapters will be followed by a small computational component, introducing computational methods tools and light numerical analysis.
 
